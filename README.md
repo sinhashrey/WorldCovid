@@ -3,3 +3,4 @@
 * The Tableau queries file contains SQL queries that I used to import data into Tableau and then further visualise it. The visualisation is available in this [Tableau Dashboard](https://public.tableau.com/views/WorldwideCOVID_16516369248040/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link).
 
 Dataset source: [Our World in Data](https://ourworldindata.org/coronavirus#explore-the-global-situation)
+(as of 19 April 2022)
